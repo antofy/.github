@@ -47,9 +47,3 @@ Once Fule is depleted, users stop earning tokens.
 Credit Box is a loot box that is randomly dropped while you are moving & socializing in the metaverse. It contains MEGG.
 Upon receiving a Credit Box, opening the box requires waiting and the countdown starts automatically. Once the countdown ends, they will be spending a small amount of FGG (a Base Cost) to open it. Credit Box countdown duration increases proportionately to its quality.
 
-# Community & Economy
-All NPC assets and NPC genetic data can be easily accessed by 3rd parties, allowing community developers to build their own tools and experiences in the Metaegg platform.
-While NPCs holders will be using the Metaegg platform for games it's also taken on characteristics of a social network and earning platform due to the strong community and opportunity to truly own resources earned within the games. 
-A key difference between the Metaegg platform is that Blockchain economic design unlocks the ability to have complex player-owned economies and rewards players who are able to reach advanced levels of skill. Players are able to have fun and work towards ambitious goals while simultaneously earning potential resources that will have real monetary value due to an open economic system and demand from other players - “Play & Earn, Move & Earn, Socialize & earn ”. 
-Players will gain more resources to advance in the game by taking actions such as: Competing in Battles to win leaderboard prizes as well as $MEGG, breeding NPCs to produce new ones with particular Body Part combinations. Collecting and speculating on rare NPCs.
-
