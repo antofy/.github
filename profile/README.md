@@ -36,12 +36,15 @@ There will be countless unique NPCs that players can collect with varying body p
 # Fit-Fi
 Users are equipped with NPC NFTs to earn tokens by moving. Fule is needed to earn Fast Get Good (FGG). Every 1-liter of Fule equals to 5 minutes of move & earn movement and Fule which ONLY starts replenishing after users acquire an NPC NFTs. 
 To begin, users can select any NPC NFT of their choice and start earning.
+
 Users will be able to see a statue on the screen showing either Walking or Running based on GPS/internet signal, or the user is not organically moving (i.e. using a car ). No FGG will be earned, and users will not lose Fule depending on the circumstance.
+
 White - No GPS; Red - Poor GPS; Green - Strong GPS. Always make sure you have Fule before moving, as there is no token earning if you have zero Fule.
+
 FGG will be paid out for every minute of movement, which is dependent on 2 factors:
-Type of NPC NFT - Base FGG returns for each NPC NFT will be different.
-NFT’s Efficiency Attribute - The higher the efficiency, the more FGG earned per minute.
-Once Fule is depleted, users stop earning tokens.
+- Type of NPC NFT - Base FGG returns for each NPC NFT will be different.
+- NFT’s Efficiency Attribute - The higher the efficiency, the more FGG earned per minute.
+- Once Fule is depleted, users stop earning tokens.
 
 # Social-Fi 
 Credit Box is a loot box that is randomly dropped while you are moving & socializing in the metaverse. It contains MEGG.
