@@ -2,9 +2,9 @@
 
 
 
-**Metaegg working on financial instruments for sovereign minded. Unchain assets. Go bordereless. Stay private. through Web3, NFT, Gaming, Entertainment, and DeFi. MDEFI is a token made to support what’s next, controlled, and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse & gaming.**
+**Antofy working on financial instruments for sovereign minded. Unchain assets. Go bordereless. Stay private. through Web3, NFT, Gaming, Entertainment, and DeFi. MDEFI is a token made to support what’s next, controlled, and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse & gaming.**
 
-# Metaegg DeFi ($MDEFI) In Simple Terms
+# Antofy ($ABN) In Simple Terms
 
 $MDEFI is a revolutionary project introducing a pure BNB reflective mechanism with an auto-claim feature, dynamic dividends, and taxation fully controlled by the community, empowering holders to become BNB-wealthy forever.
 
