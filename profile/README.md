@@ -113,4 +113,4 @@ yarn hardhat renounceAdminRole --network <network> --contractaddress <contractad
 This will output the id of the transaction that renounces the role.
 Note: the signer and the `backupaddress` must have the default admin role.
 
-Besides creating the next generation of yield-producing contracts on BSC, the $MDEFI team plans to release games and NFT collection and new tokens on the other blockchains. The NFT collection ties in beautifully into the $MDEFI ecosystem, offering crypto fans more options and an unforgettable experience.
+Besides creating the next generation of yield-producing contracts on BSC, the $ABN team plans to release games and NFT collection and new tokens on the other blockchains. The NFT collection ties in beautifully into the $ABN ecosystem, offering crypto fans more options and an unforgettable experience.
