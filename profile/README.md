@@ -2,7 +2,7 @@
 
 
 
-**Antofy working on financial instruments for sovereign minded. Unchain assets. Go bordereless. Stay private. through Web3, NFT, Gaming, Entertainment, and DeFi. MDEFI is a token made to support what’s next, controlled, and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse & gaming.**
+**Antofy working on financial instruments for sovereign minded. Unchain assets. Go bordereless. Stay private. through Web3, NFT, Gaming, Entertainment, and DeFi. $ABN is a token made to support what’s next, controlled, and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse & gaming.**
 
 # Antofy ($ABN)  TOKEN
 
